@@ -18,6 +18,8 @@ krūz N5dekl;
 klas N5dekl;
 izteiksm N5dekl;
 
+tauk Dskdekl;
+
 LEXICON N1dekl					
 +N+Sg+Nom:^s  #;
 +N+Sg+Gen:^Ma  #;
@@ -54,3 +56,9 @@ LEXICON N5dekl
 +N+Pl+Acc:^es #;
 +N+Pl+Loc:^ēs #;
 
+LEXICON Dskdekl
++N+Pl+Nom:^i  #;
++N+Pl+Gen:^Mu  #;
++N+Pl+Dat:^iem #;
++N+Pl+Acc:^us #;
++N+Pl+Loc:^os #;
