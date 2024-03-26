@@ -19,6 +19,8 @@ klas N5dekl;
 izteiksm N5dekl;
 
 tauk Dskdekl;
+peln Dskdekl;
+aizkar Dskdekl;
 
 LEXICON N1dekl					
 +N+Sg+Nom:^s  #;
